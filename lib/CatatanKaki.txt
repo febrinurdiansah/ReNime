@@ -1,0 +1,6 @@
+1.
+    Pada bagian scroll list itu ada "kelainan" saat memilih multiple choice, saat memilih beberapa choice/item pada hasil di gridnya agak gak sesuai dengan yang di pilih pada choicenya
+
+2.
+    Route Named di main.dart, gak tahu kenapa yang saat yang home ikut dijalanin error, tapi kalo gak dijalanin malah normal, aneh banget njirr
+    
