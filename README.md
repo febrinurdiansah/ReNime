@@ -30,6 +30,6 @@ Contributions to ReNime are always welcome. If you'd like to improve the app, fi
 
 If you have any feedback, suggestions, or encounter issues, please open an issue on this repository. Your input is greatly appreciated and helps make ReNime better.
 
-## License
+//## License
 
-This project is licensed under the [MIT License](LICENSE).
+//This project is licensed under the [MIT License](LICENSE).
