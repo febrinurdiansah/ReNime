@@ -14,30 +14,26 @@ This project marks the beginning of the application's development journey. I am 
 
 ## Screenshots
 
-<div style="display: flex; justify-content: center;">
-  <div style="margin-right: 10px;">
-    <img src="screenshot/1.png" alt="Screenshot 1" width="200">
-    <p style="text-align: center;">Screenshot 1</p>
+<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: flex-start;">
+  <div style="text-align: center;">
+    <img src="screenshot/1.png" alt="Screenshot 1" style="max-width: 300px; max-height: 500px;">
+    <p>Screenshot 1</p>
   </div>
-  
-  <div style="margin-right: 10px;">
-    <img src="screenshot/2.png" alt="Screenshot 2" width="200">
-    <p style="text-align: center;">Screenshot 2</p>
+  <div style="text-align: center;">
+    <img src="screenshot/2.png" alt="Screenshot 2" style="max-width: 300px; max-height: 500px;">
+    <p>Screenshot 2</p>
   </div>
-  
-  <div style="margin-right: 10px;">
-    <img src="screenshot/3.png" alt="Screenshot 3" width="200">
-    <p style="text-align: center;">Screenshot 3</p>
+  <div style="text-align: center;">
+    <img src="screenshot/3.png" alt="Screenshot 3" style="max-width: 300px; max-height: 500px;">
+    <p>Screenshot 3</p>
   </div>
-
-  <div style="margin-right: 10px;">
-    <img src="screenshot/4.png" alt="Screenshot 4" width="200">
-    <p style="text-align: center;">Screenshot 4</p>
+  <div style="text-align: center;">
+    <img src="screenshot/4.png" alt="Screenshot 4" style="max-width: 300px; max-height: 500px;">
+    <p>Screenshot 4</p>
   </div>
-
-  <div>
-    <img src="screenshot/5.png" alt="Screenshot 5" width="200">
-    <p style="text-align: center;">Screenshot 5</p>
+  <div style="text-align: center;">
+    <img src="screenshot/5.png" alt="Screenshot 5" style="max-width: 300px; max-height: 500px;">
+    <p>Screenshot 5</p>
   </div>
 </div>
 
