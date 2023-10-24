@@ -14,11 +14,8 @@ This project marks the beginning of the application's development journey. I am 
 
 ## Screenshots
 
-<img src="screenshot/1.png" width="200" height="400" style="margin-right: 20px;">
-<img src="screenshot/2.png" width="200" height="400" style="margin-right: 20px;">
-<img src="screenshot/3.png" width="200" height="400" style="margin-right: 20px;">
-<img src="screenshot/4.png" width="200" height="400" style="margin-right: 20px;">
-<img src="screenshot/5.png" width="200" height="400" style="margin-right: 20px;">
+<img src="screenshot/1.png" width="200" height="400" style="margin-right: 20px;"> <img src="screenshot/2.png" width="200" height="400" style="margin-right: 20px;"><img src="screenshot/3.png" width="200" height="400" style="margin-right: 20px;">
+<img src="screenshot/4.png" width="200" height="400" style="margin-right: 20px;"> <img src="screenshot/5.png" width="200" height="400" style="margin-right: 20px;">
 
 ## Get Started
 
