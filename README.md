@@ -14,7 +14,7 @@ This project marks the beginning of the application's development journey. I am 
 
 ## Screenshots
 
-<img src="screenshot/1.png" width="250" >  <img src="screenshot/2.png" width="250" >  <img src="screenshot/3.png" width="250" >  <img src="screenshot/4.png" width="250" >  <img src="screenshot/5.png" width="250" >
+<img src="screenshot/1.png" width="150" alt="Splash">  <img src="screenshot/2.png" width="150" alt="Home">  <img src="screenshot/3.png" width="150" alt="Search">  <img src="screenshot/4.png" width="150" alt="Bookmarks">  <img src="screenshot/5.png" width="150" alt="Detail">
 
 ## Get Started
 
