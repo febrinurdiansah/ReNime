@@ -14,11 +14,32 @@ This project marks the beginning of the application's development journey. I am 
 
 ## Screenshots
 
-<img src="screenshot/1.png" width="200" height="400">
-<img src="screenshot/2.png" width="200" height="400">
-<img src="screenshot/3.png" width="200" height="400">
-<img src="screenshot/4.png" width="200" height="400">
-<img src="screenshot/5.png" width="200" height="400">
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 10px;">
+    <img src="screenshot/1.png" alt="Screenshot 1" width="200">
+    <p style="text-align: center;">Screenshot 1</p>
+  </div>
+  
+  <div style="margin-right: 10px;">
+    <img src="screenshot/2.png" alt="Screenshot 2" width="200">
+    <p style="text-align: center;">Screenshot 2</p>
+  </div>
+  
+  <div style="margin-right: 10px;">
+    <img src="screenshot/3.png" alt="Screenshot 3" width="200">
+    <p style="text-align: center;">Screenshot 3</p>
+  </div>
+
+  <div style="margin-right: 10px;">
+    <img src="screenshot/4.png" alt="Screenshot 4" width="200">
+    <p style="text-align: center;">Screenshot 4</p>
+  </div>
+
+  <div>
+    <img src="screenshot/5.png" alt="Screenshot 5" width="200">
+    <p style="text-align: center;">Screenshot 5</p>
+  </div>
+</div>
 
 ## Get Started
 
