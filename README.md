@@ -14,10 +14,11 @@ This project marks the beginning of the application's development journey. I am 
 
 ## Screenshots
 
-<div style = "display:grid; grid-template-columns:repeat(3,1fr); gap:50px;">
-<img src = "screenshot/1.png" width="150px" style="margin-right: 10px;"/><img src = "screenshot/2.png" width="150px"style="margin-right: 10px;"/><img src = "screenshot/3.png" width="150px"style="margin-right: 10px;"/>
-<img src = "screenshot/4.png" width="150px"style="margin-right: 10px;"/><img src = "screenshot/5.png" width="150px"/>
-</div>
+<img src="screenshot/1.png" width="200" height="400" style="margin-right: 20px;">
+<img src="screenshot/2.png" width="200" height="400" style="margin-right: 20px;">
+<img src="screenshot/3.png" width="200" height="400" style="margin-right: 20px;">
+<img src="screenshot/4.png" width="200" height="400" style="margin-right: 20px;">
+<img src="screenshot/5.png" width="200" height="400" style="margin-right: 20px;">
 
 ## Get Started
 
