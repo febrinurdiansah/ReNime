@@ -14,11 +14,11 @@ This project marks the beginning of the application's development journey. I am 
 
 ## Screenshots
 
-![Splash screen](screenshot/1.png)
-![Home](screenshot/2.png)
-![Search](screenshot/3.png)
-![Bookmarks](screenshot/4.png)
-![Detail Anime](screenshot/5.png)
+<img src="screenshot/1.png" width="200" height="400">
+<img src="screenshot/2.png" width="200" height="400">
+<img src="screenshot/3.png" width="200" height="400">
+<img src="screenshot/4.png" width="200" height="400">
+<img src="screenshot/5.png" width="200" height="400">
 
 ## Get Started
 
