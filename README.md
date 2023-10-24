@@ -12,6 +12,14 @@ This project marks the beginning of the application's development journey. I am 
 - Access a wide range of content via the Consumet API.
 - Enjoy a seamless streaming experience on your Flutter app.
 
+## Screenshots
+
+![Splash screen](screenshot/1.png)
+![Home](screenshot/2.png)
+![Search](screenshot/3.png)
+![Bookmarks](screenshot/4.png)
+![Detail Anime](screenshot/5.png)
+
 ## Get Started
 
 To get started with ReNime, follow these steps:
@@ -29,7 +37,3 @@ Contributions to ReNime are always welcome. If you'd like to improve the app, fi
 ## Feedback
 
 If you have any feedback, suggestions, or encounter issues, please open an issue on this repository. Your input is greatly appreciated and helps make ReNime better.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
