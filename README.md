@@ -14,27 +14,9 @@ This project marks the beginning of the application's development journey. I am 
 
 ## Screenshots
 
-<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: flex-start;">
-  <div style="text-align: center;">
-    <img src="screenshot/1.png" alt="Screenshot 1" width="300px" style="max-width: 300px; max-height: 500px;">
-    <p>Screenshot 1</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="screenshot/2.png" alt="Screenshot 2" width="300px" style="max-width: 300px; max-height: 500px;">
-    <p>Screenshot 2</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="screenshot/3.png" alt="Screenshot 3" width="300px" style="max-width: 300px; max-height: 500px;">
-    <p>Screenshot 3</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="screenshot/4.png" alt="Screenshot 4" width="300px" style="max-width: 300px; max-height: 500px;">
-    <p>Screenshot 4</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="screenshot/5.png" alt="Screenshot 5" width="300px" style="max-width: 300px; max-height: 500px;">
-    <p>Screenshot 5</p>
-  </div>
+<div style = "display:grid; grid-template-columns:repeat(3,1fr); gap:50px;">
+<img src = "screenshot/1.png" width="150px"/><img src = "screenshot/2.png" width="150px"/><img src = "screenshot/3.png" width="150px"/>
+<img src = "screenshot/4.png" width="150px"/><img src = "screenshot/5.png" width="150px"/>
 </div>
 
 ## Get Started
